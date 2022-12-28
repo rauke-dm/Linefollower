@@ -13,4 +13,4 @@
 |	8 |	Polulu wiel (40 x  7) zwart |	Laten de robot rijden|	Nieuw	| € 2,48 |	2|	 € 4,96 |
 |	9 |	Gearmotor bracket	| Houden de motoren op hun plaats |	Nieuw		| € 1,98 |	2|	 € 3,96 |
 |	10 |	Tuimelschakelaar	| Schakelaar voor de voeding van de robot |	Nieuw	|	 € 0,99 |	1	| € 0,99 |
-
+|||||||€ 94,79|
