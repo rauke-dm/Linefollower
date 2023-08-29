@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|         1| Arduino Uno | Aansturen van onderdelen aan de hand van geschreven code | Recup |      /        |   1   |   /      |
+|         1| Arduino Leonardo | Aansturen van onderdelen aan de hand van geschreven code | Recup |      /        |   1   |   /      |
 | 2 |	Batterijhouder (2 x 18650)	| Houder van 2 batterijen|	Nieuw|		 € 4,69 |	1	| € 4,69 |
 |	3	|Batterij (2 x 18650) + oplader |	Voeding voor de onderdelen	|Nieuw	|	 € 17,99 |	1	 |€ 17,99 |
 | 4 |	DC 50:1 gearmotor |	Motor die een wiel doet draaien |	Nieuw	|	 € 18,35| 	2	| € 36,70 |
