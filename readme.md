@@ -9,7 +9,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller: Arduino Uno
+microcontroller: Arduino Leonardo
 <br />
 motors: DC 50:1 Gearmotor
 <br />
