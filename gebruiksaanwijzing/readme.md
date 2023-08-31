@@ -12,10 +12,10 @@ Zorg dat de wielen van de robot vrij zijn en dus niet gehinderd door een onderli
 Maak een verbinding tussen uw GSM met een seriële poort app en de bluetooth module van de robot. Bij het invullen en versturen van het commando ‘SET RUN’ zal de robot automatisch de lijn beginnen volgen. Als de robot de lijn kwijt is zal hij automatisch stoppen met rijden. Ook bij nogmaals invoeren van het commando ‘SET RUN’ zal de robot stoppen. 
 Als u klaar bent dan hoeft u enkel de schakelaar terug omlaag te zetten en is de robot uitgeschakeld. 
 
-### draadloze communicatie
+### Draadloze communicatie
 Zet de robot aan zoals in vorige onderwerpen is aangehaald. Open de bluethoot instellingen van uw GSM en verbind met het apparaat 'HC-05' met toegangscode '4321'.  Open een app op uw GSM met de toepassing van een seriële bluethooth poort. Hier kan u nu een connectie leggen tussen uw GSM en de robot om commando's door te sturen naar de robot. 
 
-#### commando's
+#### Commando's
 debug: Vraag alle parameters op die ingesteld zijn op de robot. 
 set run: Laat de robot rijden over de lijn of laat de robot stoppen met rijden.  
 set cycle [µs]: Bepaal de tijd waarin de robot al zijn instellingen overloopt en uitvoert.   
