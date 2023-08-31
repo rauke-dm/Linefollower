@@ -6,8 +6,11 @@ Elektronisch schema: [POC DRV8835.pdf](https://github.com/rauke-dm/Linefollower/
 
 Minimale code:
 #define RotatieLinks 5
+
 #define RotatieRechts 10
+
 #define SnelheidMotor1 6
+
 #define SnelheidMotor2 9
 
 void setup()  {
@@ -17,6 +20,7 @@ void setup()  {
 void loop() {
   
  analogWrite(SnelheidMotor1, 20);
+ 
  delay(2000);
 analogWrite(SnelheidMotor1, 40);
  delay(2000);
